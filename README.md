@@ -13,6 +13,8 @@ A security-conscious, test-driven modernization of a legacy Laravel e-commerce a
 
 </div>
 
+![Laravel 10 to 13 upgrade timeline](assets/laravel-10-to-13-upgrade-timeline.svg)
+
 > **Confidentiality note:** This repository documents the engineering approach and verified outcomes. It intentionally excludes client source code, credentials, database records, production configuration, private URLs, and commercially sensitive information.
 
 ## Executive Summary
